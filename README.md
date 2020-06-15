@@ -5,7 +5,7 @@
 
 ## Installation
 ```bash
-go get github.com/m1ome/hooker
+$ go get github.com/cryptopay-dev/hooker
 ```
 
 ## Usage

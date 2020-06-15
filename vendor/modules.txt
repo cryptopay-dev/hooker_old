@@ -1,0 +1,8 @@
+# github.com/tdewolff/minify v2.3.6+incompatible
+github.com/tdewolff/minify
+github.com/tdewolff/minify/xml
+# github.com/tdewolff/parse v2.3.4+incompatible
+github.com/tdewolff/parse
+github.com/tdewolff/parse/buffer
+github.com/tdewolff/parse/strconv
+github.com/tdewolff/parse/xml

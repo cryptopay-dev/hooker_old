@@ -1,7 +1,0 @@
-{
-    "dependencies": {
-        "github.com/tdewolff/minify": {
-            "branch": "master"
-        }
-    }
-}
